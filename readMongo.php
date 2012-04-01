@@ -56,9 +56,6 @@ foreach (file($filename) as $json) {
     $result[]=json_decode($json,true); 
 }
 
-var_dump($result);
-return;
-
 // Odczyt struktury
 $record = $result[0]; 
 
