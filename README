@@ -4,8 +4,8 @@ Wykonane zadania :
 	plik dane.txt
 - import danych do bazy mongoDB
 	Uruchamiamy skryptem importToMongo.sh ( sposob uruchomienia opisany w pliku )
+- import danych do bazy couchDB
+	Uruchamiamy skryptem importToCouchDB.sh ( sposob uruchomienia opisany w pliku )
 - export danych z bazy mongoDB do MySQL ( skrypt php5 )
 	Uruchamiany skryptem mongoToMySQL.sh ( sposob uruchomienia opisany w pliku ) 
 
-
- 
