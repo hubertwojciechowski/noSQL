@@ -1,0 +1,10 @@
+Map i redcude dla mongoDb.
+Funkcja zwraca liste artystow + ile razy pojawili sie w postach
+
+
+DBQuery.shellBatchSize = 100;
+m = function() { emit(this.artist,1) };
+r = function(k,vals) { var sum = 0;  for(var i=0; i < vals.length; i++) { sum += vals[i]; } return sum;     }
+res = db.hypem.mapReduce(m, r, "TopArtists" );
+db[res.result].find()
+
