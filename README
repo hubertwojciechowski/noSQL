@@ -8,4 +8,5 @@ Wykonane zadania :
 	Uruchamiamy skryptem importToCouchDB.sh ( sposob uruchomienia opisany w pliku )
 - export danych z bazy mongoDB do MySQL ( skrypt php5 )
 	Uruchamiany skryptem mongoToMySQL.sh ( sposob uruchomienia opisany w pliku ) 
+- dodanie map i reduce dla CouchDB - funkcje w pliku mapReduceCouchDB.txt
 
