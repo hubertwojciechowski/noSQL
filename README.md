@@ -10,3 +10,5 @@ Wykonane zadania :
 	Uruchamiany skryptem mongoToMySQL.sh ( sposob uruchomienia opisany w pliku ) 
 - dodanie map i reduce dla CouchDB - funkcje w pliku mapReduceCouchDB.txt
 - dodanie map i redcue dla MongoDB - funkcje w pliku mapReduceMongoDB.txt
+
+
