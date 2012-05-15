@@ -9,6 +9,6 @@ Wykonane zadania :
 - export danych z bazy mongoDB do MySQL ( skrypt php5 )
 	Uruchamiany skryptem mongoToMySQL.sh ( sposob uruchomienia opisany w pliku ) 
 - dodanie map i reduce dla CouchDB - funkcje w pliku mapReduceCouchDB.txt
-- dodanie map i redcue dla MongoDB - funkcje w pliku mapReduceMongoDB.txt
+- dodanie map i reduce dla MongoDB - funkcje w pliku mapReduceMongoDB.txt
 
 
