@@ -1,4 +1,4 @@
-Wykonane zadania :
+## Wykonane zadania 
 
 - znalezienie danych ( lista 80 utworów z serwisu hypem.com )
 	plik dane.txt
@@ -11,4 +11,4 @@ Wykonane zadania :
 - dodanie map i reduce dla CouchDB - funkcje w pliku mapReduceCouchDB.txt
 - dodanie map i reduce dla MongoDB - funkcje w pliku mapReduceMongoDB.txt
 
-
+## Dlaczego nie działa na SIGMIE ?
