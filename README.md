@@ -8,7 +8,7 @@
 - dodanie map i reduce dla MongoDB - funkcje w pliku mapReduceMongoDB.txt
 
 
-## Jak uruchaomić na SIGMIE
+## Jak uruchomić na SIGMIE
 
 ### Import danych do bazy mongoDB - importToCouchDB.sh
 - Uruchamiamy MongoDB np. 
