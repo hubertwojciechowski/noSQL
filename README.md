@@ -133,3 +133,6 @@ db[res.result].find()
 
 
 ## Dlaczego nie działa na SIGMIE ?
+
+W repozytorium znajduje się też plik  mongoToMySQL.sh zrezygonowałem niestety miałem probłem z konfiguracją MySQL na Sigmie.
+
